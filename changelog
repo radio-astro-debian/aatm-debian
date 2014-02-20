@@ -1,0 +1,11 @@
+aatm (0.5-1) precise; urgency=low
+
+  * new upstream release (sort of, modified casa version) 
+
+ -- Gijs Molenaar <gijs@pythonic.nl>  Thu, 20 Feb 2014 16:51:50 +0200
+
+aatm (0.4.3.1-1) unstable; urgency=low
+
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- Gijs Molenaar <gijs@pythonic.nl>  Fri, 31 Jan 2014 14:41:20 +0200

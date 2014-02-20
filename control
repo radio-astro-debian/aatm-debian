@@ -1,0 +1,12 @@
+Source: aatm
+Section: science
+Priority: extra
+Maintainer: Gijs Molenaar <gijs@pythonic.nl>
+Build-Depends: debhelper (>= 8.0.0), autotools-dev, libboost-program-options-dev
+Standards-Version: 3.9.2
+Homepage: https://svn.cv.nrao.edu/view/aatm/devel/casa/
+
+Package: aatm
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description:  atmospheric modeling library

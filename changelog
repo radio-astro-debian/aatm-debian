@@ -1,3 +1,9 @@
+aatm (0.5+svn39-1trusty) trusty; urgency=low
+
+  * build for trusty
+
+ -- Gijs Molenaar <gijs@pythonic.nl>  Fri, 04 Apr 2014 13:59:12 +0200
+
 aatm (0.5+svn39-1precise1) precise; urgency=low
 
   * new upstream release

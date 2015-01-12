@@ -1,6 +1,6 @@
-aatm (0.5+svn39-1precise1) precise; urgency=low
+aatm (0.5+svn43-1trusty) trusty; urgency=medium
 
   * new upstream release
 
- -- Gijs Molenaar <gijs@pythonic.nl>  Thu, 20 Feb 2014 16:51:50 +0200
+ -- Gijs Molenaar (launchpad ppa build key) <gijs@pythonic.nl>  Mon, 12 Jan 2015 14:11:08 +0100
 
